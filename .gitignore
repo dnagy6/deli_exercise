@@ -1,4 +1,14 @@
-#Ignore Mac system files
+# macOS system files
 .DS_Store
-#Ignore Python cache files
+
+# Python cache and environments
 __pycache__/
+*.pyc
+venv/
+env/
+
+# VS Code workspace settings
+.vscode/
+
+# Security and secrets
+.env
