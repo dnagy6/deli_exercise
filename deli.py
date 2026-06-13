@@ -1,3 +1,14 @@
+/*
+ ---------------------------------------------------------
+ Name: Dakota Nagy
+ Date: June 13, 2026
+ Assignment: Participation Activity 1 - Deli Orders
+ Description: This script processes a list of sandwich 
+              orders and outputs the finished results, 
+              demonstrating loops and array manipulation.
+ ---------------------------------------------------------
+*/
+
 # Initial lists for the deli orders
 sandwich_orders = ['Tuna', 'Ham', 'Veggie', 'Turkey', 'Chicken', 'Roast Beef']
 finished_sandwiches = []
