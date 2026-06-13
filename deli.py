@@ -1,4 +1,4 @@
-/*
+"""
  ---------------------------------------------------------
  Name: Dakota Nagy
  Date: June 13, 2026
@@ -7,7 +7,7 @@
               orders and outputs the finished results, 
               demonstrating loops and array manipulation.
  ---------------------------------------------------------
-*/
+"""
 
 # Initial lists for the deli orders
 sandwich_orders = ['Tuna', 'Ham', 'Veggie', 'Turkey', 'Chicken', 'Roast Beef']
