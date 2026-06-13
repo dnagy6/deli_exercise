@@ -12,4 +12,8 @@ while sandwich_orders:
     
     # Add the finished sandwich to the finished_sandwiches list
     finished_sandwiches.append(current_sandwich)
-    
+
+# Display all the finished sandwiches
+print("\n--- Finished Sandwiches ---")
+for sandwich in finished_sandwiches:
+    print(f"- {sandwich.title()} Sandwich")
